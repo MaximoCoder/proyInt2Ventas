@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\maxim\\onedrive\\escritorio\\sistemaventasmx\\sistemaventasmx\\sistemaventa.aplicacionweb\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\maxim\\onedrive\\escritorio\\sistemaventasmx\\sistemaventasmx\\sistemaventa.aplicacionweb\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\maxim\\onedrive\\escritorio\\sistemaventasmx\\sistemaventasmx\\sistemaventa.aplicacionweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\maxim\\onedrive\\escritorio\\sistemaventasmx\\sistemaventasmx\\sistemaventa.aplicacionweb\\wwwroot\\js\\vistas\\nueva_venta.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\wwwroot\\js\\vistas\\nueva_venta.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nueva_Venta.js",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Nueva_Venta.js",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Nueva_Venta.js",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Nueva_Venta.js",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Nueva_Venta.js",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAwGoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-26T00:26:16.043Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\appsettings.json",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T03:09:12.066Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.example.json",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\appsettings.example.json",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\appsettings.example.json",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\appsettings.example.json",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\appsettings.example.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T03:58:30.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\.gitignore",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\.gitignore",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\.gitignore",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-04T03:57:41.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
