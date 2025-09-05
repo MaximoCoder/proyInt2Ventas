@@ -1,3 +1,17 @@
 git rm --cached -r .vs
 git rm --cached -r .git
 .vs/SolucionSistemaVenta/FileContentIndex/63b9fa04-24eb-441c-9c1c-33ef279cf274.vsidx
+
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos de usuario de Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Archivos temporales y logs
+*.cache
+*.log
