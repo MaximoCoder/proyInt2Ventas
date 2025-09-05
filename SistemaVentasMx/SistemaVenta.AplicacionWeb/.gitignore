@@ -1,1 +1,14 @@
 appsettings.json
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos de usuario de Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Archivos temporales y logs
+*.cache
+*.log
