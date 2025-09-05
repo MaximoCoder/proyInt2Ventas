@@ -11878,11 +11878,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
+      "projectUniqueName": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
       "projectName": "SistemaVenta.AplicacionWeb",
-      "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
+      "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
       "packagesPath": "C:\\Users\\maxim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\obj\\",
+      "outputPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -11903,14 +11903,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
-              "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+            "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+              "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
             },
-            "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
-              "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
+            "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
+              "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
             },
-            "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
-              "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj"
+            "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
+              "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj"
             }
           }
         }

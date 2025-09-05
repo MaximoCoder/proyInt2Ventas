@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {}
+    "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+    "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
         "projectName": "SistemaVenta.BLL",
-        "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+        "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
         "packagesPath": "C:\\Users\\maxim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.BLL\\obj\\",
+        "outputPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
-                "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+              "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+                "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
               },
-              "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
-                "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
+              "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
+                "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
               }
             }
           }
@@ -81,20 +81,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -104,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+    "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
         "projectName": "SistemaVenta.DAL",
-        "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+        "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
         "packagesPath": "C:\\Users\\maxim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.DAL\\obj\\",
+        "outputPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -132,8 +118,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
-                "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
+              "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
+                "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
               }
             }
           }
@@ -164,20 +150,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -187,14 +159,14 @@
         }
       }
     },
-    "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
+    "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
         "projectName": "SistemaVenta.Entity",
-        "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+        "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
         "packagesPath": "C:\\Users\\maxim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.Entity\\obj\\",
+        "outputPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -255,20 +227,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -278,14 +236,14 @@
         }
       }
     },
-    "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
+    "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+        "projectUniqueName": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
         "projectName": "SistemaVenta.IOC",
-        "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+        "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
         "packagesPath": "C:\\Users\\maxim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.IOC\\obj\\",
+        "outputPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.IOC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -306,11 +264,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
-                "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+              "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+                "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
               },
-              "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
-                "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+              "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+                "projectPath": "C:\\Users\\maxim\\OneDrive\\Escritorio\\SistemaVentasMx\\proyInt2Ventas\\SistemaVentasMx\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
               }
             }
           }
@@ -341,20 +299,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

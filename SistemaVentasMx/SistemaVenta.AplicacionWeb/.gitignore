@@ -1,1 +1,15 @@
 appsettings.json
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.vsidx
+*.vspscc
+*.vssscc
+.builds/
+*.user
+*.suo
+*.sln.docstates
