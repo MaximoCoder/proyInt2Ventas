@@ -1,5 +1,21 @@
 appsettings.json
-# Archivos de compilación
+
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.vsidx
+*.vspscc
+*.vssscc
+.builds/
+*.user
+*.suo
+*.sln.docstates
+
+# Archivos de compilaciï¿½n
 bin/
 obj/
 
@@ -12,3 +28,4 @@ obj/
 # Archivos temporales y logs
 *.cache
 *.log
+
